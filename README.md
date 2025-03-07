@@ -1,0 +1,2 @@
+# WebStat
+web statique
